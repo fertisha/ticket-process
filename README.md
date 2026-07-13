@@ -104,3 +104,19 @@ If the issue cannot be resolved over the phone, ask the user for permission to s
 </ul>
 
 <br>
+
+<p>
+<img width="1905" height="227" alt="image" src="https://github.com/user-attachments/assets/b63f950e-23cd-4dbb-acd7-b126814eb6d2" />
+
+
+</p>
+
+<h2>Step 4: Close the incident</h2>
+
+
+<p>
+If the issue cannot be resolved over the phone, ask the user for permission to start a remote support session using Microsoft Teams or BeyondTrust.
+</p>
+
+
+<br>
