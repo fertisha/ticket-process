@@ -67,9 +67,19 @@ Once all the required information has been completed, click Assign to me. This w
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img width="1905" height="227" alt="image" src="https://github.com/user-attachments/assets/afef2c18-3e72-425d-a111-be65e03f2dfb" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+## Step 3: Troubleshoot the Issue
+
+After creating and assigning the incident, begin troubleshooting the user's issue.
+
+In this example, the user reports that the classic Outlook ribbon is missing. There are two ways to resolve the issue:
+
+1. Guide the user over the phone by explaining how to restore the classic Outlook ribbon step by step.
+
+2. If the issue cannot be resolved over the phone, ask for the user's permission to connect remotely using Microsoft Teams screen sharing or BeyondTrust. Once connected, identify the cause of the issue, restore the classic ribbon, and confirm that the user can access it successfully.
 </p>
 <br />
