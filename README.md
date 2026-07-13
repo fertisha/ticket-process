@@ -1,15 +1,13 @@
 # ticket-process
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+
+  <img width="748" height="445" alt="image" src="https://github.com/user-attachments/assets/898ff178-4560-4165-bb65-16caf0fd2dce" />
+
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the steps required to create and process a serviceNow ticket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
