@@ -106,17 +106,25 @@ If the issue cannot be resolved over the phone, ask the user for permission to s
 <br>
 
 <p>
-<img width="1905" height="227" alt="image" src="https://github.com/user-attachments/assets/b63f950e-23cd-4dbb-acd7-b126814eb6d2" />
-
+<img width="789" height="750" alt="image" src="https://github.com/user-attachments/assets/47d8a505-27ee-4d49-9a77-f7cfa9c975fa" />
 
 </p>
 
 <h2>Step 4: Close the incident</h2>
 
-
 <p>
-If the issue cannot be resolved over the phone, ask the user for permission to start a remote support session using Microsoft Teams or BeyondTrust.
+Once the issue has been resolved, ask the user if they have any additional questions or need further assistance.
 </p>
 
+
+<p>
+If the user confirms that everything is working correctly:
+</p>
+
+<ul>
+<li>Document the troubleshooting steps and the final resolution in the <b>Work notes</b> section.</li>
+<li>Send a follow-up email confirming that the issue has been resolved and let the user know they can contact the Help Desk if the issue returns.</li>
+<li>Click the <b>Resolve</b> button in the top-right corner to mark the incident as resolved.</li>
+</ul>
 
 <br>
