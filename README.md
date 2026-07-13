@@ -67,19 +67,36 @@ Once all the required information has been completed, click Assign to me. This w
 <br />
 
 <p>
-
-  <img width="1905" height="227" alt="image" src="https://github.com/user-attachments/assets/afef2c18-3e72-425d-a111-be65e03f2dfb" />
-
+<img width="1905" height="227" alt="image" src="YOUR_IMAGE_LINK_HERE">
 </p>
+
+<h2>Step 3: Troubleshoot the Issue</h2>
+
 <p>
-## Step 3: Troubleshoot the Issue
-
-After creating and assigning the incident, begin troubleshooting the user's issue.
-
-In this example, the user reports that the classic Outlook ribbon is missing. There are two ways to resolve the issue:
-
-1. Guide the user over the phone by explaining how to restore the classic Outlook ribbon step by step.
-
-2. If the issue cannot be resolved over the phone, ask for the user's permission to connect remotely using Microsoft Teams screen sharing or BeyondTrust. Once connected, identify the cause of the issue, restore the classic ribbon, and confirm that the user can access it successfully.
+After assigning the incident, begin troubleshooting the user's issue.
 </p>
-<br />
+
+<p>
+In this example, the user reports that the classic Outlook ribbon is missing.
+</p>
+
+<h3>Option 1 – Guide the User</h3>
+
+<p>
+Explain over the phone how to restore the classic Outlook ribbon and confirm that the issue has been resolved.
+</p>
+
+<h3>Option 2 – Remote Support</h3>
+
+<p>
+If the issue cannot be resolved over the phone, ask the user for permission to start a remote support session using Microsoft Teams or BeyondTrust.
+</p>
+
+<ul>
+<li>Identify the cause of the issue.</li>
+<li>Restore the classic Outlook ribbon.</li>
+<li>Confirm that the issue has been resolved.</li>
+<li>Inform the user that the incident will be closed.</li>
+</ul>
+
+<br>
