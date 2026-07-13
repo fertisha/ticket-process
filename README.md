@@ -37,6 +37,7 @@ Before you begin, make sure you have:
 
 </p>
 <p>
+  <h2>Step 1: Create ServiceNow incident</h2>
 First, sign in to your ServiceNow account using your work email and password (Single Sign-On). After you sign in, you will see the main page where you can view your assigned work and your team's tickets.
 
 This page helps you keep track of:
@@ -57,6 +58,7 @@ After receiving a call from a user who needs IT support, click the "+" button ne
 
 </p>
 <p>
+  <h2>Step 2: Fill all the required fields</h2>
 After opening a new incident, fill in the required information about the user's issue. Select the caller's name, enter a short description of the problem, and provide a more detailed explanation if needed.
 
 Next, choose the appropriate State, Impact, Urgency, and Priority based on the issue. In this example, all values are set to Low because the issue is expected to be a quick and simple fix.
@@ -67,7 +69,8 @@ Once all the required information has been completed, click Assign to me. This w
 <br />
 
 <p>
-<img width="1905" height="227" alt="image" src="YOUR_IMAGE_LINK_HERE">
+  <img width="1218" height="430" alt="image" src="https://github.com/user-attachments/assets/da20f356-80bc-45dd-b39a-6112e820eda2" />
+
 </p>
 
 <h2>Step 3: Troubleshoot the Issue</h2>
