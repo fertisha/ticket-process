@@ -109,9 +109,9 @@ If the issue cannot be resolved over the phone, ask the user for permission to s
 <img width="789" height="750" alt="image" src="https://github.com/user-attachments/assets/47d8a505-27ee-4d49-9a77-f7cfa9c975fa" />
 
 </p>
-
+<p>
 <h2>Step 4: Close the incident</h2>
-
+</p>
 <p>
 Once the issue has been resolved, ask the user if they have any additional questions or need further assistance.
 </p>
