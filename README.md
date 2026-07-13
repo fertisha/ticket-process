@@ -69,7 +69,8 @@ Once all the required information has been completed, click Assign to me. This w
 <br />
 
 <p>
-  <img width="1218" height="430" alt="image" src="https://github.com/user-attachments/assets/da20f356-80bc-45dd-b39a-6112e820eda2" />
+<img width="1905" height="227" alt="image" src="https://github.com/user-attachments/assets/b63f950e-23cd-4dbb-acd7-b126814eb6d2" />
+
 
 </p>
 
@@ -83,13 +84,13 @@ After assigning the incident, begin troubleshooting the user's issue.
 In this example, the user reports that the classic Outlook ribbon is missing.
 </p>
 
-<h3>Option 1 – Guide the User</h3>
+<h4>Option 1 - Guide the User</h4>
 
 <p>
 Explain over the phone how to restore the classic Outlook ribbon and confirm that the issue has been resolved.
 </p>
 
-<h3>Option 2 – Remote Support</h3>
+<h4>Option 2 - Remote Support</h4>
 
 <p>
 If the issue cannot be resolved over the phone, ask the user for permission to start a remote support session using Microsoft Teams or BeyondTrust.
