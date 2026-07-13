@@ -30,7 +30,7 @@ Before you begin, make sure you have:
 - Google Chrome
 - A user who needs IT support
 
-<h2>Sign in to ServiceNow</h2>
+<h2>ServiceNow Incident</h2>
 
 <p>
   <img width="1894" height="670" alt="image" src="https://github.com/user-attachments/assets/402d0085-e77d-48ed-bc5e-2ae2d9428d66" />
@@ -52,10 +52,17 @@ After receiving a call from a user who needs IT support, click the "+" button ne
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img width="2560" height="1204" alt="image" src="https://github.com/user-attachments/assets/d4b6bd14-e330-4c02-ab45-1e5dac9453b7" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After opening a new incident, fill in the required information about the user's issue. Select the caller's name, enter a short description of the problem, and provide a more detailed explanation if needed.
+
+Next, choose the appropriate State, Impact, Urgency, and Priority based on the issue. In this example, all values are set to Low because the issue is expected to be a quick and simple fix.
+
+Once all the required information has been completed, click Assign to me. This will assign the incident to you, allowing you to begin troubleshooting and working toward a resolution.
+
 </p>
 <br />
 
