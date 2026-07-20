@@ -1,4 +1,4 @@
-# ticket-process
+
 <p align="center">
 
   <img width="748" height="445" alt="image" src="https://github.com/user-attachments/assets/898ff178-4560-4165-bb65-16caf0fd2dce" />
